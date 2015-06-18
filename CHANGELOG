@@ -1,0 +1,6 @@
+2015-06-18 Martin Grønholdt
+
+* user_main.c: Added bell and whistles and test code.
+* user_config.h: Added macro version of code from Peter Scargill's blog post. (http://tech.scargill.net/esp8266-debug/)
+* missing_dec.h: Added void pp_soft_wdt_stop
+*			   : Added void pp_soft_wdt_restart
